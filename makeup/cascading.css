@@ -1,0 +1,30 @@
+label{
+    display: block;
+    margin: 20px;
+}
+fieldset{
+    margin: 20px;
+}
+.button{
+    display: block;
+}
+nav li{
+    display: inline;
+    margin-right: 10px;
+    padding: 20px;
+ 
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: larger;
+}
+nav li:hover{
+    background-color:darkgrey;
+}
+nav{
+    margin-top: 50px;
+}
+main{
+    margin-top: 100px;
+}
